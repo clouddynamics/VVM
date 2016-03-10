@@ -5,7 +5,7 @@
 #--------------------------------------------------------------------- 
 
 set echo  # echoes the commands
-set expname = gate
+set expname = pshsu_Gate_t01
 
 # hardscrabble configuration
 set subdir = '../..'
