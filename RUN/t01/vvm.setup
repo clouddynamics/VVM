@@ -5,7 +5,7 @@
 #--------------------------------------------------------------------- 
 
 set echo  # echoes the commands
-set expname = shallow
+set expname = pshsu_shallow_t01
 
 # hardscrabble configuration
 set subdir = '../..'
